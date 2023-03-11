@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st post",
+      "dateTime": "Match 3rd, 2023 7:30 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iusto ex reprehenderit blanditiis neque! Modi, quia minima rerum accusantium iste tenetur voluptatibus architecto expedita laboriosam at voluptas, itaque repellat omnis."
+    },
+    {
+      "id": 2,
+      "title": "My 2nd post",
+      "dateTime": "Match 3rd, 2023 7:30 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iusto ex reprehenderit blanditiis neque! Modi, quia minima rerum accusantium iste tenetur voluptatibus architecto expedita laboriosam at voluptas, itaque repellat omnis."
+    },
+    {
+      "id": 3,
+      "title": "My 3rd post",
+      "dateTime": "Match 3rd, 2023 7:30 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iusto ex reprehenderit blanditiis neque! Modi, quia minima rerum accusantium iste tenetur voluptatibus architecto expedita laboriosam at voluptas, itaque repellat omnis."
+    },
+    {
+      "id": 4,
+      "title": "My 4th post",
+      "dateTime": "March 07, 2023 12:18:02 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam iusto ex reprehenderit blanditiis neque! Modi, quia minima rerum accusantium iste tenetur voluptatibus architecto expedita laboriosam at volupta my sadiq"
+    },
+    {
+      "id": 6,
+      "title": "Alamin is a butt head",
+      "dateTime": "March 08, 2023 3:08:35 AM",
+      "body": "He is going to be a doctor of one of the most vital organ of the human body yet he still waste his time watching series consisting of 13 freeking seasons.\n\nP.s ur freking awsome brother sadiq"
+    }
+  ]
+}
